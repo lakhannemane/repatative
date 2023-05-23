@@ -1,10 +1,9 @@
 import React from "react";
-import Table from "./Component/Table";
 
 function App() {
   return (
     <div className="App">
-      <Table />
+      <h1>Hello lakhan Good Evening🙋‍♂️</h1>
     </div>
   );
 }
