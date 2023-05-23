@@ -1,9 +1,10 @@
 import React from "react";
+import Table from "./Component/Table";
+
 function App() {
   return (
     <div className="App">
-      <p>Hello React</p>
-      <span>Dev branch</span>
+      <Table />
     </div>
   );
 }
